@@ -1,2 +1,7 @@
+# IMDB Project Ignore File
 imdb/imdb/__pycache__
 imdb/imdb/spiders/__pycache__
+
+# Quotes Project Ignore File
+quotes/quotes/__pycache__
+quotes/quotes/spiders/__pycache__
