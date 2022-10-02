@@ -5,3 +5,7 @@ imdb/imdb/spiders/__pycache__
 # Quotes Project Ignore File
 quotes/quotes/__pycache__
 quotes/quotes/spiders/__pycache__
+
+# WorldoMeters Project Ignore File 
+worldometers/worldometers/__pycache__
+worldometers/worldometers/spiders/__pycache__
